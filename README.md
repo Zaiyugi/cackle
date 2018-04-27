@@ -4,7 +4,7 @@
 
 ### Description
 
-Cackle is a path-tracer for rendering 3D fractals using sphere-tracing. Rendering is done using a set of CUDA kernels. Results can be found here: [zaiyugi.com/pages/cackle]
+Cackle is a path-tracer for rendering 3D fractals using sphere-tracing. Rendering is done using a set of CUDA kernels. Results can be found here: [http://zaiyugi.com/pages/cackle]
 
 ### Building
 *  make -- make all required libraries
