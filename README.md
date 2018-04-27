@@ -26,6 +26,6 @@ Cackle is a path-tracer for rendering 3D fractals using sphere-tracing. Renderin
 *  _swig/_  
    Swig interface and Swig-generated Python bindings
 
-Created: 2017-04-01 
+Created: 2017-04-01  
 Edited: 2018-04-27
  
